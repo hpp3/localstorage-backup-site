@@ -1,0 +1,1 @@
+javascript:(function(){var s=document.createElement('script');s.src='https://hpp3.github.io/localstorage-backup-site/main.js?t='+Date.now();document.body.appendChild(s);})();
